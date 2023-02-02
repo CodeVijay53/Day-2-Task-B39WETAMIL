@@ -25,4 +25,5 @@ window.proprty_name;
 
 Example:
 window.self: It provides another way to refer to the current window.
+//Please have a review
 
