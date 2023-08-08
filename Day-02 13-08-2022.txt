@@ -21,7 +21,7 @@ Window object:
 4. It is the object of the browser.
 
 Syntax:
-window.proprty_name;
+window.property_name;
 
 Example:
 window.self: It provides another way to refer to the current window.
